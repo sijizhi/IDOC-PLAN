@@ -1,0 +1,8 @@
+server:
+  port: 8977
+
+web:
+  file-path: D:/mnt/mnt2
+  file-mnt: /mnt
+  file-temporary: /temporary
+
